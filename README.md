@@ -1,4 +1,4 @@
-# autonomous-vehicle-trafficsign-detection-classification
+# Computer vision - traffic sign detection and classfication
 
 NOTE: Before copying any part of this code, please check with github author acjj0. 
 
